@@ -1,8 +1,3 @@
-
-
-
-
-
 let btn = document.querySelector('#send');
 
 let sdf = 25.69
